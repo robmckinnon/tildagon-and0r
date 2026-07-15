@@ -15,4 +15,4 @@ license = "LGPL-3.0-only"
 url = "https://github.com/robmckinnon/tildagon-and0r"
 description = "/\\nd|0r-style machine readout: animated fan gauges driven by the badge's live IMU and battery sensors, with a countdown timer ring."
 # Increase this integer to publish a new version.
-version = "0"
+version = "0.0.1"
