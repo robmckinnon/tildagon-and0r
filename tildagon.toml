@@ -1,0 +1,18 @@
+[app]
+# The name of your app as displayed in the menu.
+# Literal (single-quoted) string so the backslash isn't treated as an escape.
+name = '/\nd|0r'
+
+# The submenu where your app appears / how the store classifies it.
+category = "Media"
+
+# Fallback for older firmware that predates the "Media" category.
+menu = "Apps"
+
+[metadata]
+author = "robmckinnon"
+license = "LGPL-3.0-only"
+url = "https://github.com/robmckinnon/tildagon-and0r"
+description = "/\\nd|0r-style machine readout: animated fan gauges driven by the badge's live IMU and battery sensors, with a countdown timer ring."
+# Increase this integer to publish a new version.
+version = "0"
