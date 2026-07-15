@@ -1,0 +1,6 @@
+# Dev clutter — not part of the published badge app
+app.py.bak*
+andor4.py
+andor4.png
+metadata.json
+CLAUDE.md
